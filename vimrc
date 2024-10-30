@@ -5,7 +5,7 @@
 set list listchars=tab:»·,trail:·,nbsp:·
 
 " case insensitive searches
-:set noic
+:set ic
 
 "
 " this is for easier tab navigation.
