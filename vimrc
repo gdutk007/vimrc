@@ -13,8 +13,8 @@ set list listchars=tab:»·,trail:·,nbsp:·
 "
 noremap <leader>te :tabedit
 noremap <leader>t. :tabedit .<cr>
-noremap <leader>h  :tabm -1<cr>
-noremap <leader>l  :tabm +1<cr>
+noremap <leader>p  :tabm -1<cr>
+noremap <leader>n  :tabm +1<cr>
 
 " These are for better navigation
 noremap <leader>e :echo @%<cr>
